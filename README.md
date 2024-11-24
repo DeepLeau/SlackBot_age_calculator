@@ -18,12 +18,12 @@ A Slack bot built using the Slacker library in Go. This bot calculates a user's 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/DeepLeau/SlackBot_age_calculator.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd repository-name
+   cd SlackBot_age_calculator
    ```
 
 3. Install dependencies:
